@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useRef } from "react";
-import EcosystemIcon from "../../KENZI-MCGREEN/public/ecosystem.svg";
+import EcosystemIcon from "../../public/ecosystem.svg";
 import { motion, useMotionTemplate, useMotionValue } from "framer-motion";
 
 export const MissionT = ({
